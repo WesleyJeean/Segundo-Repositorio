@@ -1,0 +1,3 @@
+slides de programação em python abaixo do texto e 
+vai ter algumas anotações que eu brinquei enquanto aprendia C#
+
